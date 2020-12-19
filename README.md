@@ -1,0 +1,2 @@
+# minio
+simple minio chart 
