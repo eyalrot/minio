@@ -58,8 +58,8 @@ ingress:
       paths: 
       - path: "/"
     - host: demo.local.k8s
-        paths:
-            - path: "/min-path"
+      paths:
+      - path: "/min-path"
   tls: []
   #  - secretName: chart-example-tls
   #    hosts:
