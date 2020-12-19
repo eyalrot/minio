@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ffc590-a0a8-41e4-90b7-066f29cdfa56" name="Default Changelist" comment="work">
-      <change afterPath="$PROJECT_DIR$/minio1/templates/storage.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minio1/templates/deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/minio1/templates/deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minio1/templates/storage.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/minio1/templates/storage.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minio1/values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/minio1/values.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +43,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608391268029</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="work">
+      <created>1608394037022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608394037023</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
